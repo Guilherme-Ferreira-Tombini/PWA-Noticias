@@ -1,0 +1,28 @@
+{
+    "name": "NoticiasAPP",
+    "short_name": "NoticiasAPP",
+    "display": "standalone",
+    "background-color": "#fdfdfd",
+    "description": "PWA canectada a uma API",
+    "theme_color":"#db4938",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "./img/256.png",
+            "sizes":"256x256",
+            "type":"image/png"
+        },
+        {
+            "src": "./img/512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        },
+        {
+            "src": "./img/",
+            "sizes":"196x196",
+            "type":"image/png",
+            "purpose": "any maskable"
+        }
+    ]
+
+}
